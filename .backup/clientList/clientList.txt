@@ -1,0 +1,55 @@
+name: "J.Friz"
+bandName: "Baladon"
+email: ""
+genre: "Hip Hop"
+clientSince: "2003"
+recentProject:
+albumName: ""
+albumYear: ""
+
+name: "Sin Kattes"
+bandName: "Baladon"
+email: ""
+genre: "Hip Hop"
+clientSince: "2004"
+recentProject:
+albumName: ""
+albumYear: ""
+
+name: "Hurk"
+bandName: "Fettyville"
+email: ""
+genre: "Hip Hop"
+clientSince: "2011"
+recentProject:
+albumName: "No Homage"
+albumYear: "2022"
+photo: "recentProject_hurk.tiff"
+
+name: "Gate"
+bandName: "Fettyville"
+email: ""
+genre: "Trap"
+clientSince: "2013"
+recentProject:
+albumName: ""
+albumYear: ""
+photo: ""
+
+name: "Mark Irvin"
+bandName: ""
+email: ""
+genre: "R&B"
+clientSince: "2015"
+recentProject:
+albumName: ""
+albumYear: ""
+
+name: "Melek"
+bandName: ""
+email: ""
+genre: "R&B"
+clientSince: "2016"
+recentProject:
+albumName: ""
+albumYear: ""

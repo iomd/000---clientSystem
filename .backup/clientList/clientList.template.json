@@ -1,0 +1,35 @@
+[
+	{
+		"name": "",
+		"bandName": "",
+		"email": "",
+		"genre": "",
+		"clientSince": "",
+		"recentProject": {
+			"albumName": "",
+			"albumYear": ""},
+		"active": true
+	},
+	{
+		"name": "",
+		"bandName": "",
+		"email": "",
+		"genre": "",
+		"clientSince": "",
+		"recentProject": {
+			"albumName": "",
+			"albumYear": ""},
+		"active": true
+	},
+	{
+		"name": "",
+		"bandName": "",
+		"email": "",
+		"genre": "",
+		"clientSince": "",
+		"recentProject": {
+			"albumName": "",
+			"albumYear": ""},
+		"active": false
+	}
+]
